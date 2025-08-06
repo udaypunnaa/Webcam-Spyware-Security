@@ -1,0 +1,54 @@
+[2025-08-02 22:55:26] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-02 23:05:01] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-02 23:05:09] INFO: Firebase Events button clicked
+[2025-08-02 23:05:16] INFO: View Logs button clicked
+[2025-08-02 23:05:22] INFO: Check Status button clicked
+[2025-08-02 23:05:46] INFO: Project Info button clicked
+[2025-08-02 23:05:49] INFO: Project info file not found
+[2025-08-02 23:05:53] INFO: Project Info button clicked
+[2025-08-02 23:05:55] INFO: Project info file not found
+[2025-08-02 23:06:52] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-02 23:06:58] INFO: Project Info button clicked
+[2025-08-02 23:06:59] INFO: Project info opened successfully
+[2025-08-03 23:52:38] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-03 23:58:52] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-03 23:58:56] INFO: Project Info button clicked
+[2025-08-03 23:58:56] INFO: Project info opened successfully
+[2025-08-03 23:59:26] INFO: Failed webcam enable attempt - incorrect verification password
+[2025-08-03 23:59:39] INFO: Check Status button clicked
+[2025-08-04 00:00:11] INFO: Project Info button clicked
+[2025-08-04 00:00:11] INFO: Project info opened successfully
+[2025-08-04 00:41:33] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-04 00:42:06] INFO: Successful authentication via password for: register face
+[2025-08-04 00:42:16] INFO: Face registration started for: abcd
+[2025-08-04 00:42:26] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-04 00:42:57] INFO: Successful authentication via password for: register face
+[2025-08-04 00:43:01] INFO: Face registration started for: abcd
+[2025-08-04 00:43:26] INFO: Face registration error: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+[2025-08-04 00:44:09] INFO: Face registration error: OpenCV(4.12.0) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+[2025-08-04 01:01:16] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-06 18:58:42] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-06 18:58:50] INFO: Project Info button clicked
+[2025-08-06 18:58:51] INFO: Project info opened successfully
+[2025-08-06 18:59:25] INFO: Failed authentication via password for: view logs
+[2025-08-06 18:59:36] INFO: Successful authentication via password for: view logs
+[2025-08-06 18:59:36] INFO: View Logs button clicked
+[2025-08-06 18:59:55] INFO: Successful authentication via password for: check status
+[2025-08-06 18:59:55] INFO: Check Status button clicked
+[2025-08-06 19:04:18] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-06 19:54:28] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-06 19:54:44] INFO: Successful authentication via password for: view Firebase events
+[2025-08-06 19:54:44] INFO: Firebase Events button clicked
+[2025-08-06 19:54:57] INFO: Successful authentication via password for: check status
+[2025-08-06 19:54:57] INFO: Check Status button clicked
+[2025-08-06 19:55:29] INFO: Webcam disable button clicked
+[2025-08-06 19:55:33] INFO: Disable script not found
+[2025-08-06 19:56:08] INFO: Failed webcam disable attempt - incorrect verification password
+[2025-08-06 19:56:08] INFO: Intruder video recording started after wrong password.
+[2025-08-06 20:23:27] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-06 20:23:33] INFO: Project Info button clicked
+[2025-08-06 20:23:33] INFO: Project info opened successfully
+[2025-08-06 20:27:30] INFO: Successful authentication via password for: check status
+[2025-08-06 20:27:30] INFO: Check Status button clicked

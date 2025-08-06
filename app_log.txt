@@ -1,0 +1,183 @@
+[2025-07-31 13:50:41] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 13:53:15] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 13:53:20] INFO: View Logs button clicked
+[2025-07-31 13:54:35] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 13:54:45] INFO: Failed log view attempt - incorrect admin password
+[2025-07-31 13:54:50] INFO: View Logs button clicked
+[2025-07-31 13:54:56] INFO: Check Status button clicked
+[2025-07-31 13:57:53] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 14:00:37] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 14:00:47] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 14:01:24] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 14:02:36] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 14:04:47] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 14:05:05] INFO: Webcam disable button clicked
+[2025-07-31 14:57:01] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 14:57:14] INFO: Failed webcam disable attempt - incorrect verification password
+[2025-07-31 14:57:30] INFO: Failed status check attempt - incorrect admin password
+[2025-07-31 14:59:49] INFO: Failed status check attempt - incorrect admin password
+[2025-07-31 15:01:13] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 15:01:23] INFO: Failed log view attempt - incorrect admin password
+[2025-07-31 15:01:32] INFO: Failed log view attempt - incorrect admin password
+[2025-07-31 15:02:45] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 15:02:54] INFO: Failed log view attempt - incorrect admin password
+[2025-07-31 15:04:24] INFO: Failed log view attempt - incorrect admin password
+[2025-07-31 15:04:41] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 15:04:49] INFO: View Logs button clicked
+[2025-07-31 15:04:58] INFO: Failed log view attempt - incorrect admin password
+[2025-07-31 15:06:52] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 15:06:59] INFO: Failed status check attempt - incorrect admin password
+[2025-07-31 15:07:11] INFO: Failed webcam enable attempt - incorrect verification password
+[2025-07-31 15:07:11] INFO: Intruder video recording started after wrong password.
+[2025-07-31 15:08:11] INFO: Check Status button clicked
+[2025-07-31 15:08:26] INFO: Check Status button clicked
+[2025-07-31 15:08:38] INFO: Failed status check attempt - incorrect admin password
+[2025-07-31 15:09:08] INFO: Webcam disable button clicked
+[2025-07-31 15:09:20] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 15:09:27] INFO: Check Status button clicked
+[2025-07-31 15:10:00] INFO: Failed webcam disable attempt - incorrect verification password
+[2025-07-31 15:10:00] INFO: Intruder video recording started after wrong password.
+[2025-07-31 15:10:26] INFO: Check Status button clicked
+[2025-07-31 15:10:50] INFO: Webcam disable button clicked
+[2025-07-31 15:13:29] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 15:13:42] INFO: Failed webcam enable attempt - incorrect verification password
+[2025-07-31 15:13:42] INFO: Intruder video recording started after wrong password.
+[2025-07-31 15:13:56] INFO: Check Status button clicked
+[2025-07-31 15:14:21] INFO: Webcam enable button clicked
+[2025-07-31 15:14:25] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 15:14:29] INFO: Check Status button clicked
+[2025-07-31 15:14:53] INFO: Webcam enable button clicked
+[2025-07-31 15:15:02] INFO: Check Status button clicked
+[2025-07-31 15:15:22] INFO: Failed webcam enable attempt - incorrect verification password
+[2025-07-31 15:15:22] INFO: Intruder video recording started after wrong password.
+[2025-07-31 15:34:24] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 17:15:37] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 17:15:44] INFO: View Logs button clicked
+[2025-07-31 17:16:07] INFO: Webcam disable button clicked
+[2025-07-31 17:16:15] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 17:16:32] INFO: Webcam disable button clicked
+[2025-07-31 17:48:28] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 17:48:51] INFO: Failed webcam disable attempt - incorrect verification password
+[2025-07-31 17:48:51] INFO: Intruder video recording started after wrong password.
+[2025-07-31 17:49:18] INFO: Failed webcam enable attempt - incorrect verification password
+[2025-07-31 17:49:18] INFO: Intruder video recording started after wrong password.
+[2025-07-31 17:50:10] INFO: Failed webcam enable attempt - incorrect verification password
+[2025-07-31 17:50:10] INFO: Intruder video recording started after wrong password.
+[2025-07-31 17:51:00] INFO: Webcam enable button clicked
+[2025-07-31 17:51:04] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 17:51:19] INFO: Failed webcam disable attempt - incorrect verification password
+[2025-07-31 17:51:19] INFO: Intruder video recording started after wrong password.
+[2025-07-31 17:51:53] INFO: Failed webcam enable attempt - incorrect verification password
+[2025-07-31 17:51:53] INFO: Intruder video recording started after wrong password.
+[2025-07-31 17:52:12] INFO: Webcam enable button clicked
+[2025-07-31 17:52:31] INFO: Failed webcam disable attempt - incorrect verification password
+[2025-07-31 17:52:31] INFO: Intruder video recording started after wrong password.
+[2025-07-31 20:44:23] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 20:44:31] INFO: Firebase Events button clicked
+[2025-07-31 20:44:44] INFO: Check Status button clicked
+[2025-07-31 20:55:06] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security\dist
+[2025-07-31 21:07:27] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security\dist
+[2025-07-31 21:07:50] INFO: Check Status button clicked
+[2025-07-31 21:08:02] INFO: View Logs button clicked
+[2025-07-31 21:08:10] INFO: Firebase Events button clicked
+[2025-07-31 21:09:11] INFO: Webcam disable button clicked
+[2025-07-31 21:09:30] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security\dist
+[2025-07-31 21:09:40] INFO: Firebase Events button clicked
+[2025-07-31 21:10:06] INFO: Webcam disable button clicked
+[2025-07-31 21:10:09] INFO: Disable script not found
+[2025-07-31 21:10:55] INFO: Webcam disable button clicked
+[2025-07-31 22:50:27] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 22:50:29] INFO: Project Info button clicked
+[2025-07-31 22:50:29] INFO: Project info opened successfully
+[2025-07-31 22:54:27] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 22:54:29] INFO: Project Info button clicked
+[2025-07-31 22:54:29] INFO: Project info opened successfully
+[2025-07-31 23:38:04] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 23:38:12] INFO: Firebase Events button clicked
+[2025-07-31 23:38:22] INFO: Firebase Events button clicked
+[2025-07-31 23:39:53] INFO: Firebase Events button clicked
+[2025-07-31 23:40:01] INFO: Failed log view attempt - incorrect admin password
+[2025-07-31 23:40:07] INFO: View Logs button clicked
+[2025-07-31 23:40:16] INFO: Check Status button clicked
+[2025-07-31 23:40:37] INFO: Failed password change attempt - incorrect admin password
+[2025-07-31 23:40:39] INFO: Project Info button clicked
+[2025-07-31 23:40:39] INFO: Project info opened successfully
+[2025-07-31 23:52:05] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 23:53:47] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 23:55:29] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 23:58:43] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-07-31 23:59:49] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-08-01 00:00:38] INFO: Webcam Security Interface started from: C:\Webcam Spyware Security
+[2025-08-02 22:52:40] INFO: Webcam Security Interface started from: C:\webcam
+[2025-08-02 22:52:46] INFO: Project Info button clicked
+[2025-08-02 22:52:47] INFO: Project info opened successfully
+[2025-08-04 00:05:29] INFO: Webcam Security Interface started from: C:\webcam
+[2025-08-04 00:06:15] INFO: Failed webcam enable attempt - incorrect verification password
+[2025-08-04 00:08:11] INFO: Webcam Security Interface started from: C:\webcam
+[2025-08-04 00:08:24] INFO: Failed webcam enable attempt - incorrect verification password
+[2025-08-04 00:08:39] INFO: Failed webcam disable attempt - incorrect verification password
+[2025-08-04 00:10:39] INFO: Webcam Security Interface started from: C:\webcam
+[2025-08-04 00:10:55] INFO: Failed webcam enable attempt - incorrect verification password
+[2025-08-04 00:10:55] INFO: Intruder video recording started after wrong password.
+[2025-08-04 00:11:21] INFO: Firebase Events button clicked
+[2025-08-04 00:21:39] INFO: Webcam Security Interface started from: C:\webcam
+[2025-08-04 00:21:50] INFO: Failed recognition test attempt - incorrect admin password
+[2025-08-04 00:21:58] INFO: Face recognition test started
+[2025-08-04 00:22:15] INFO: Face recognition test completed
+[2025-08-04 00:22:32] INFO: Face registration started for: suresh
+[2025-08-04 00:22:52] INFO: Face registered successfully for: suresh
+[2025-08-04 00:22:59] INFO: Face recognition test started
+[2025-08-04 00:23:23] INFO: Face recognition test completed
+[2025-08-04 00:25:07] INFO: Webcam Security Interface started from: C:\webcam
+[2025-08-04 00:25:28] INFO: Face registration deleted for: abcd
+[2025-08-04 00:25:40] INFO: Face registration deleted for: suresh
+[2025-08-04 00:26:10] INFO: Face registration started for: admin123
+[2025-08-04 00:26:29] INFO: Face registered successfully for: admin123
+[2025-08-04 00:26:43] INFO: Face registration deleted for: admin123
+[2025-08-04 00:30:36] INFO: Webcam Security Interface started from: C:\webcam
+[2025-08-04 00:30:52] INFO: Project Info button clicked
+[2025-08-04 00:30:52] INFO: Project info opened successfully
+[2025-08-04 00:31:18] INFO: Project Info button clicked
+[2025-08-04 00:31:19] INFO: Project info opened successfully
+[2025-08-04 00:31:41] INFO: Webcam Security Interface started from: C:\webcam
+[2025-08-04 00:31:45] INFO: Project Info button clicked
+[2025-08-04 00:31:45] INFO: Project info opened successfully
+[2025-08-04 00:32:31] INFO: Project Info button clicked
+[2025-08-04 00:32:31] INFO: Project info opened successfully
+[2025-08-04 00:33:24] INFO: Webcam Security Interface started from: C:\webcam
+[2025-08-04 00:33:48] INFO: Successful authentication via password for: register face
+[2025-08-04 00:34:02] INFO: Face registration started for: abcd
+[2025-08-04 00:34:20] INFO: Face registered successfully for: abcd
+[2025-08-04 00:34:50] INFO: Successful authentication via face recognition for: view logs
+[2025-08-04 00:34:50] INFO: View Logs button clicked
+[2025-08-04 00:35:21] INFO: Successful authentication via face recognition for: check status
+[2025-08-04 00:35:22] INFO: Check Status button clicked
+[2025-08-04 00:57:02] INFO: Webcam Security Interface started from: C:\webcam
+[2025-08-04 00:57:16] INFO: Successful authentication via password for: delete face
+[2025-08-04 00:57:22] INFO: Face registration deleted for: abcd
+[2025-08-04 01:01:02] INFO: Project Info button clicked
+[2025-08-04 01:01:02] INFO: Project info opened successfully
+[2025-08-04 01:01:11] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-06 19:02:55] INFO: Webcam Security Interface started from: C:\webcam
+[2025-08-06 19:39:38] INFO: Webcam Security Interface started from: C:\webcam
+[2025-08-06 19:40:15] INFO: Webcam enable button clicked
+[2025-08-06 19:40:27] INFO: Webcam Security Interface started from: C:\webcam
+[2025-08-06 19:40:52] INFO: Webcam disable button clicked
+[2025-08-06 19:44:12] INFO: Webcam Security Interface started from: C:\webcam
+[2025-08-06 19:44:25] INFO: Successful authentication via password for: view Firebase events
+[2025-08-06 19:44:25] INFO: Firebase Events button clicked
+[2025-08-06 19:44:52] INFO: Webcam enable button clicked
+[2025-08-06 19:44:58] INFO: Webcam Security Interface started from: C:\webcam
+[2025-08-06 19:45:17] INFO: Successful authentication via password for: view Firebase events
+[2025-08-06 19:45:17] INFO: Firebase Events button clicked
+[2025-08-06 19:45:29] INFO: Successful authentication via password for: view logs
+[2025-08-06 19:45:29] INFO: View Logs button clicked
+[2025-08-06 19:45:40] INFO: Successful authentication via password for: view Firebase events
+[2025-08-06 19:45:40] INFO: Firebase Events button clicked
+[2025-08-06 19:46:14] INFO: Failed webcam disable attempt - incorrect verification password
+[2025-08-06 19:46:15] INFO: Intruder video recording started after wrong password.
+[2025-08-06 19:46:40] INFO: Successful authentication via password for: view Firebase events
+[2025-08-06 19:46:40] INFO: Firebase Events button clicked
+[2025-08-06 19:47:08] INFO: Successful authentication via password for: check status
+[2025-08-06 19:47:09] INFO: Check Status button clicked
+[2025-08-06 19:47:38] INFO: Webcam enable button clicked
