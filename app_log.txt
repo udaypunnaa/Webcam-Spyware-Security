@@ -181,3 +181,48 @@
 [2025-08-06 19:47:08] INFO: Successful authentication via password for: check status
 [2025-08-06 19:47:09] INFO: Check Status button clicked
 [2025-08-06 19:47:38] INFO: Webcam enable button clicked
+[2025-08-06 22:27:43] INFO: Webcam Security Interface started from: C:\webcam
+[2025-08-06 22:27:56] INFO: Successful authentication via password for: register face
+[2025-08-06 22:28:04] INFO: Face registration started for: abcd
+[2025-08-06 22:31:55] INFO: Face registration failed for: abcd
+[2025-08-06 22:32:04] INFO: Successful authentication via password for: register face
+[2025-08-06 22:32:10] INFO: Face registration started for: abcd
+[2025-08-06 22:34:09] INFO: Webcam Security Interface started from: C:\webcam
+[2025-08-06 22:34:22] INFO: Successful authentication via password for: register face
+[2025-08-06 22:34:29] INFO: Face registration started for: abcd
+[2025-08-06 22:36:45] INFO: Webcam Security Interface started from: C:\webcam
+[2025-08-06 22:36:58] INFO: Successful authentication via password for: register face
+[2025-08-06 22:37:06] INFO: Face registration started for: abcd
+[2025-08-06 22:37:28] INFO: Face registration failed for: abcd
+[2025-08-06 22:37:40] INFO: Successful authentication via password for: register face
+[2025-08-06 22:37:46] INFO: Face registration started for: abcd
+[2025-08-06 22:38:09] INFO: Face registered successfully for: abcd
+[2025-08-06 22:38:39] INFO: Successful authentication via face recognition for: test face recognition
+[2025-08-06 22:38:40] INFO: Face recognition test started
+[2025-08-06 22:39:39] INFO: Face recognition test completed
+[2025-08-06 23:53:38] INFO: Webcam Security Interface started from: C:\webcam
+[2025-08-06 23:54:13] INFO: Failed authentication via face recognition for: delete face
+[2025-08-06 23:54:26] INFO: Failed authentication via password for: delete face
+[2025-08-06 23:54:36] INFO: Successful authentication via password for: delete face
+[2025-08-06 23:54:42] INFO: Face registration deleted for: abcd
+[2025-08-07 18:46:08] INFO: Webcam Security Interface started from: C:\webcam
+[2025-08-07 18:46:35] INFO: Successful authentication via password for: register face
+[2025-08-07 18:46:49] INFO: Face registration started for: abcd
+[2025-08-07 18:47:42] INFO: Face registration failed for: abcd
+[2025-08-07 18:47:58] INFO: Successful authentication via password for: delete face
+[2025-08-07 18:48:12] INFO: Successful authentication via password for: register face
+[2025-08-07 18:48:20] INFO: Face registration started for: abcd
+[2025-08-07 18:48:40] INFO: Face registered successfully for: abcd
+[2025-08-07 18:48:53] INFO: Successful authentication via password for: test face recognition
+[2025-08-07 18:48:53] INFO: Face recognition test started
+[2025-08-07 18:49:30] INFO: Face recognition test completed
+[2025-08-07 18:49:42] INFO: Successful authentication via password for: delete face
+[2025-08-07 18:49:48] INFO: Face registration deleted for: abcd
+[2025-08-07 18:50:00] INFO: Successful authentication via password for: register face
+[2025-08-07 18:50:07] INFO: Face registration started for: abcd
+[2025-08-07 18:50:29] INFO: Face registered successfully for: abcd
+[2025-08-07 18:50:42] INFO: Successful authentication via password for: test face recognition
+[2025-08-07 18:50:42] INFO: Face recognition test started
+[2025-08-07 18:51:04] INFO: Face recognition test completed
+[2025-08-07 18:51:15] INFO: Successful authentication via password for: delete face
+[2025-08-07 18:51:19] INFO: Face registration deleted for: abcd

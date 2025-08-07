@@ -56,7 +56,9 @@ class WebcamSecurityInterface:
         self.logger = Logger()
         self.system_checker = SystemChecker()
         self.firebase_manager = SimpleFirebase()  # Initialize Firebase
+        print("[DEBUG] Initializing facial recognition system...")
         self.face_recognition = SimpleFaceDetection()  # Initialize facial recognition
+        print(f"[DEBUG] Face cascade loaded: {self.face_recognition.face_cascade is not None}")
         self.current_admin_password = "admin123"  # Default password
         self.user_email = "lankashraddha6@gmail.com"
         self._webcam_action_password = None  # Temporary password for enable/disable

@@ -52,3 +52,110 @@
 [2025-08-06 20:23:33] INFO: Project info opened successfully
 [2025-08-06 20:27:30] INFO: Successful authentication via password for: check status
 [2025-08-06 20:27:30] INFO: Check Status button clicked
+[2025-08-06 21:24:43] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-06 21:25:21] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-06 21:25:29] INFO: Project Info button clicked
+[2025-08-06 21:25:29] INFO: Project info opened successfully
+[2025-08-06 21:25:35] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-06 21:25:44] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-06 21:26:05] INFO: Successful authentication via password for: view logs
+[2025-08-06 21:26:05] INFO: View Logs button clicked
+[2025-08-06 21:26:37] INFO: Successful authentication via password for: check status
+[2025-08-06 21:26:37] INFO: Check Status button clicked
+[2025-08-06 21:27:34] INFO: Failed authentication via password for: change admin password
+[2025-08-06 21:29:18] INFO: Webcam disable button clicked
+[2025-08-06 21:29:28] INFO: Webcam disabled successfully
+[2025-08-06 21:29:39] INFO: Successful authentication via password for: check status
+[2025-08-06 21:29:39] INFO: Check Status button clicked
+[2025-08-06 21:30:37] INFO: Webcam enable button clicked
+[2025-08-06 21:31:43] INFO: Webcam enabled successfully
+[2025-08-06 21:32:21] INFO: Failed webcam disable attempt - incorrect verification password
+[2025-08-06 21:32:22] INFO: Intruder video recording started after wrong password.
+[2025-08-06 21:33:31] INFO: Successful authentication via password for: view Firebase events
+[2025-08-06 21:33:31] INFO: Firebase Events button clicked
+[2025-08-06 21:34:52] INFO: Successful authentication via password for: register face
+[2025-08-06 21:35:04] INFO: Face registration started for: uday
+[2025-08-06 21:35:06] INFO: Face registration failed for: uday
+[2025-08-06 21:35:21] INFO: Successful authentication via password for: register face
+[2025-08-06 21:35:29] INFO: Face registration started for: abcd
+[2025-08-06 21:35:31] INFO: Face registration failed for: abcd
+[2025-08-06 21:38:32] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-06 21:38:45] INFO: Successful authentication via password for: register face
+[2025-08-06 21:38:49] INFO: Face registration started for: uday
+[2025-08-06 21:38:52] INFO: Face registration failed for: uday
+[2025-08-06 21:39:10] INFO: Successful authentication via password for: test face recognition
+[2025-08-06 21:39:21] INFO: Successful authentication via password for: register face
+[2025-08-06 21:39:31] INFO: Face registration started for: abcd
+[2025-08-06 21:40:20] INFO: Face registration failed for: abcd
+[2025-08-06 21:41:24] INFO: Failed authentication via password for: register face
+[2025-08-06 21:44:21] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-06 22:40:56] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-06 22:41:12] INFO: Successful authentication via password for: register face
+[2025-08-06 22:41:19] INFO: Face registration started for: abcd
+[2025-08-06 22:41:20] INFO: Face registration failed for: abcd
+[2025-08-06 23:06:45] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-06 23:08:07] INFO: Successful authentication via password for: register face
+[2025-08-06 23:08:20] INFO: Face registration started for: adcb
+[2025-08-06 23:08:24] INFO: Face registration failed for: adcb
+[2025-08-06 23:10:39] INFO: Successful authentication via password for: register face
+[2025-08-06 23:10:50] INFO: Face registration started for: abcd
+[2025-08-06 23:10:53] INFO: Face registration failed for: abcd
+[2025-08-06 23:11:09] INFO: Successful authentication via password for: view Firebase events
+[2025-08-06 23:11:09] INFO: Firebase Events button clicked
+[2025-08-07 00:00:06] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-07 00:00:20] INFO: Successful authentication via password for: register face
+[2025-08-07 00:00:26] INFO: Face registration started for: abcd
+[2025-08-07 00:00:29] INFO: Face registration failed for: abcd
+[2025-08-07 00:03:37] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-07 00:03:48] INFO: Successful authentication via password for: register face
+[2025-08-07 00:03:55] INFO: Face registration started for: abbcd
+[2025-08-07 00:04:50] INFO: Face registration failed for: abbcd
+[2025-08-07 07:28:59] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-07 07:29:13] INFO: Successful authentication via password for: register face
+[2025-08-07 07:29:21] INFO: Face registration started for: abcd
+[2025-08-07 07:29:25] INFO: Face registration failed for: abcd
+[2025-08-07 07:40:27] INFO: Successful authentication via password for: register face
+[2025-08-07 07:40:43] INFO: Face registration started for: abcd
+[2025-08-07 07:40:50] INFO: Face registration failed for: abcd
+[2025-08-07 07:41:56] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-07 07:42:08] INFO: Successful authentication via password for: register face
+[2025-08-07 07:42:19] INFO: Face registration started for: abcd
+[2025-08-07 07:42:21] INFO: Face registration failed for: abcd
+[2025-08-07 07:53:05] INFO: Successful authentication via password for: register face
+[2025-08-07 07:53:11] INFO: Face registration started for: abcd
+[2025-08-07 07:53:13] INFO: Face registration failed for: abcd
+[2025-08-07 18:44:50] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-07 18:45:17] INFO: Successful authentication via password for: register face
+[2025-08-07 18:45:23] INFO: Face registration started for: abcd
+[2025-08-07 18:45:26] INFO: Face registration failed for: abcd
+[2025-08-07 19:15:08] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-07 19:16:59] INFO: Successful authentication via password for: register face
+[2025-08-07 19:17:06] INFO: Face registration started for: abcd
+[2025-08-07 19:17:34] INFO: Face registration failed for: abcd
+[2025-08-07 19:17:55] INFO: Successful authentication via password for: register face
+[2025-08-07 19:19:58] INFO: Face registration started for: abcd
+[2025-08-07 19:20:24] INFO: Face registered successfully for: abcd
+[2025-08-07 19:20:37] INFO: Successful authentication via password for: test face recognition
+[2025-08-07 19:20:37] INFO: Face recognition test started
+[2025-08-07 19:21:08] INFO: Face recognition test completed
+[2025-08-07 19:21:20] INFO: Successful authentication via password for: delete face
+[2025-08-07 19:21:26] INFO: Face registration deleted for: abcd
+[2025-08-07 19:29:06] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-07 19:29:21] INFO: Successful authentication via password for: register face
+[2025-08-07 19:29:28] INFO: Face registration started for: abcd
+[2025-08-07 19:29:54] INFO: Face registered successfully for: abcd
+[2025-08-07 19:30:05] INFO: Successful authentication via password for: test face recognition
+[2025-08-07 19:30:05] INFO: Face recognition test started
+[2025-08-07 19:30:35] INFO: Face recognition test completed
+[2025-08-07 19:30:47] INFO: Successful authentication via password for: delete face
+[2025-08-07 19:30:51] INFO: Face registration deleted for: abcd
+[2025-08-07 19:34:12] INFO: Successful authentication via password for: delete face
+[2025-08-07 20:23:41] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-07 20:23:58] INFO: Successful authentication via password for: register face
+[2025-08-07 20:24:04] INFO: Face registration started for: abcd
+[2025-08-07 20:24:24] INFO: Face registered successfully for: abcd
+[2025-08-07 20:24:37] INFO: Successful authentication via password for: test face recognition
+[2025-08-07 20:24:37] INFO: Face recognition test started
+[2025-08-07 20:25:05] INFO: Face recognition test completed
+[2025-08-07 20:25:35] INFO: Successful authentication via face recognition for: check status
+[2025-08-07 20:25:35] INFO: Check Status button clicked

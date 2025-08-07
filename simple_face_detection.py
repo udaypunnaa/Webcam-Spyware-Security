@@ -27,26 +27,48 @@ class SimpleFaceDetection:
         
         # Load OpenCV face detection cascade
         try:
-            # Try the standard path first
-            cascade_path = cv2.data.haarcascades + 'haarcascade_frontalface_default.xml'
-            self.face_cascade = cv2.CascadeClassifier(cascade_path)
+            cascade_path = None
+            self.face_cascade = None
             
-            # Check if cascade loaded successfully
-            if self.face_cascade.empty():
-                # Try alternative path for executable
-                if getattr(sys, 'frozen', False):
-                    # Running as executable
-                    base_path = sys._MEIPASS
-                    cascade_path = os.path.join(base_path, 'cv2', 'data', 'haarcascades', 'haarcascade_frontalface_default.xml')
-                    self.face_cascade = cv2.CascadeClassifier(cascade_path)
-                
-                if self.face_cascade.empty():
-                    print("⚠️ Warning: Could not load face cascade classifier")
-                    self.face_cascade = None
-                else:
-                    print("✅ Face cascade loaded from executable path")
+            # Get the correct base directory
+            if getattr(sys, 'frozen', False):
+                # Running as compiled executable
+                base_dir = os.path.dirname(sys.executable)
             else:
-                print("✅ Face cascade loaded successfully")
+                # Running as script
+                base_dir = os.path.dirname(os.path.abspath(__file__))
+            
+            # Try multiple cascade paths in order of preference
+            cascade_paths = [
+                # 1. Local project directory (for executable)
+                os.path.join(base_dir, 'haarcascade_frontalface_default.xml'),
+                # 2. PyInstaller temporary directory
+                os.path.join(getattr(sys, '_MEIPASS', ''), 'haarcascade_frontalface_default.xml') if getattr(sys, 'frozen', False) else None,
+                # 3. Standard OpenCV path (for development)
+                cv2.data.haarcascades + 'haarcascade_frontalface_default.xml',
+            ]
+            
+            # Filter out None paths
+            cascade_paths = [path for path in cascade_paths if path is not None]
+            
+            for path in cascade_paths:
+                print(f"[DEBUG] Trying cascade path: {path}")
+                if os.path.exists(path):
+                    print(f"[DEBUG] File exists, attempting to load...")
+                    self.face_cascade = cv2.CascadeClassifier(path)
+                    if not self.face_cascade.empty():
+                        print(f"✅ Face cascade loaded successfully from: {path}")
+                        cascade_path = path
+                        break
+                    else:
+                        print(f"⚠️ Cascade file exists but failed to load: {path}")
+                else:
+                    print(f"⚠️ Cascade file not found: {path}")
+            
+            if self.face_cascade is None or self.face_cascade.empty():
+                print("❌ Warning: Could not load face cascade classifier from any location")
+                self.face_cascade = None
+                
         except Exception as e:
             print(f"❌ Error loading face cascade: {e}")
             self.face_cascade = None
@@ -115,6 +137,7 @@ class SimpleFaceDetection:
         """Capture a face image for registration"""
         if self.face_cascade is None:
             print("❌ Face detection not available - cascade classifier not loaded")
+            print("[DEBUG] Please ensure haarcascade_frontalface_default.xml is available")
             return False
             
         print(f"📸 Capturing face image for {name}...")
