@@ -159,3 +159,34 @@
 [2025-08-07 20:25:05] INFO: Face recognition test completed
 [2025-08-07 20:25:35] INFO: Successful authentication via face recognition for: check status
 [2025-08-07 20:25:35] INFO: Check Status button clicked
+[2025-08-08 16:25:57] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-08 16:26:11] INFO: Successful authentication via password for: check status
+[2025-08-08 16:26:11] INFO: Check Status button clicked
+[2025-08-08 16:26:43] INFO: Failed webcam disable attempt - incorrect verification password
+[2025-08-08 16:26:44] INFO: Intruder video recording started after wrong password.
+[2025-08-08 16:27:12] INFO: Webcam disable button clicked
+[2025-08-08 16:27:14] INFO: Webcam disabled successfully
+[2025-08-08 16:35:15] INFO: Project Info button clicked
+[2025-08-08 16:35:17] INFO: Project info file not found
+[2025-08-08 16:35:42] INFO: Project Info button clicked
+[2025-08-08 16:35:42] INFO: Project info opened successfully
+[2025-08-08 16:41:27] INFO: Failed authentication via face recognition for: view Firebase events
+[2025-08-08 16:42:10] INFO: Successful authentication via password for: delete face
+[2025-08-08 16:42:15] INFO: Face registration deleted for: abcd
+[2025-08-08 16:42:23] INFO: Successful authentication via password for: register face
+[2025-08-08 16:42:28] INFO: Face registration started for: abcd
+[2025-08-08 16:42:30] INFO: Face registration failed for: abcd
+[2025-08-08 16:42:57] INFO: Successful authentication via password for: register face
+[2025-08-08 16:43:03] INFO: Face registration started for: avbd
+[2025-08-08 16:43:05] INFO: Face registration failed for: avbd
+[2025-08-08 16:45:45] INFO: Webcam Security Interface started from: C:\webcam\dist
+[2025-08-08 16:46:05] INFO: Successful authentication via password for: check status
+[2025-08-08 16:46:05] INFO: Check Status button clicked
+[2025-08-08 16:46:31] INFO: Webcam enable button clicked
+[2025-08-08 16:46:33] INFO: Webcam enabled successfully
+[2025-08-08 16:46:43] INFO: Successful authentication via password for: register face
+[2025-08-08 16:46:48] INFO: Face registration started for: abcd
+[2025-08-08 16:47:07] INFO: Face registered successfully for: abcd
+[2025-08-08 16:47:20] INFO: Successful authentication via password for: test face recognition
+[2025-08-08 16:47:20] INFO: Face recognition test started
+[2025-08-08 16:47:47] INFO: Face recognition test completed
